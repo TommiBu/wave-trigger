@@ -123,5 +123,5 @@ the YOLO weights.
 
 ## License
 
-Not chosen yet. Note that `ultralytics` is AGPL-3.0, which constrains what this
-project can be released under.
+AGPL-3.0. Copyright (C) 2026 Tomáš Buzek. The pose backend, `ultralytics`,
+is AGPL-3.0 as well.
